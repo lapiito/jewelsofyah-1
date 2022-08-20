@@ -91,8 +91,8 @@ h2 {
 
 .header_section.innerpage_header {
   position: relative;
-  background: -webkit-gradient(linear, left top, right top, from(#184d47), to(#184d47));
-  background: linear-gradient(to right, #184d47, #184d47);
+  background: -webkit-gradient(linear, left top, right top, from(#bc1939), to(#bc1939));
+  background: linear-gradient(to right, #bc1939, #bc1939);
   padding: 10px 0;
 }
 
@@ -128,7 +128,7 @@ h2 {
 .custom_menu-btn.menu_btn-style::before {
   width: 100vh;
   height: 100vh;
-  background-color: #184d47;
+  background-color: #bc1939;
   -webkit-transform: scale(7);
           transform: scale(7);
   border-radius: 0;
@@ -228,7 +228,7 @@ h2 {
 }
 
 .overlay a:hover {
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 .overlay-content {
@@ -317,10 +317,10 @@ a:focus {
 .slider_section .detail-box .slider-link {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #96bb7c;
+  background-color: #f0617e;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #96bb7c;
+  border: 1px solid #f0617e;
   -webkit-transition: all .2s;
   transition: all .2s;
   margin-top: 10px;
@@ -328,7 +328,7 @@ a:focus {
 
 .slider_section .detail-box .slider-link:hover {
   background-color: transparent;
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 .slider_section .slider_bg_box {
@@ -387,8 +387,8 @@ a:focus {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, #184d47));
-  background: linear-gradient(to bottom, transparent 70%, #184d47 70%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, #bc1939));
+  background: linear-gradient(to bottom, transparent 70%, #bc1939 70%);
   padding: 0 25px 45px 25px;
 }
 
@@ -404,8 +404,8 @@ a:focus {
 
 .about_section .img-box {
   position: relative;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, #184d47));
-  background: linear-gradient(to bottom, transparent 70%, #184d47 70%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(70%, transparent), color-stop(70%, #bc1939));
+  background: linear-gradient(to bottom, transparent 70%, #bc1939 70%);
   padding: 0 25px 45px 25px;
 }
 
@@ -422,17 +422,17 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #96bb7c;
+  background-color: #f0617e;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #96bb7c;
+  border: 1px solid #f0617e;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 /* contact section */
@@ -488,7 +488,7 @@ a:focus {
 }
 
 .contact_section .contact_form-container input:focus {
-  border-bottom: 1px solid #96bb7c;
+  border-bottom: 1px solid #f0617e;
 }
 
 .contact_section .contact_form-container input[type="date"]::-webkit-calendar-picker-indicator,
@@ -511,10 +511,10 @@ a:focus {
 .contact_section .contact_form-container button {
   display: inline-block;
   padding: 10px 60px;
-  background-color: #96bb7c;
+  background-color: #f0617e;
   color: #ffffff;
   border-radius: 5px;
-  border: 1px solid #96bb7c;
+  border: 1px solid #f0617e;
   -webkit-transition: all .2s;
   transition: all .2s;
   text-transform: uppercase;
@@ -523,7 +523,7 @@ a:focus {
 
 .contact_section .contact_form-container button:hover {
   background-color: transparent;
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 .contact_bg_box {
@@ -570,7 +570,7 @@ a:focus {
   text-align: center;
 }
 
-.client_section #carouselExampleControls {
+.client_section #myCarousel {
   padding: 0 10%;
 }
 
@@ -639,7 +639,7 @@ a:focus {
   height: 45px;
   border: none;
   opacity: 1;
-  background-color: #96bb7c;
+  background-color: #f0617e;
   color: #ffffff;
   border-radius: 100%;
   -webkit-transform: translateY(-50%);
@@ -649,7 +649,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #184d47;
+  background-color: #bc1939;
 }
 
 .client_section .carousel-control-prev {
@@ -663,7 +663,7 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #184d47;
+  background-color: #bc1939;
   color: #ffffff;
   padding: 75px 0 40px 0;
   text-align: center;
@@ -704,7 +704,7 @@ a:focus {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 .footer_section .footer-logo {
@@ -735,7 +735,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #184d47;
+  color: #bc1939;
   width: 30px;
   height: 30px;
   border-radius: 100%;
@@ -746,7 +746,7 @@ a:focus {
 }
 
 .footer_section .footer_social a:hover {
-  color: #96bb7c;
+  color: #f0617e;
 }
 
 .footer_section .map_container {
